@@ -1,1 +1,2 @@
 # cloudgit
+create madal.txt
